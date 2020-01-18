@@ -1,0 +1,8 @@
+.last-img {
+    width: 200px;
+    position: fixed;
+    border: orange 10px;
+    border-radius: 5px;
+    right: 0;
+    bottom: 0;
+}
